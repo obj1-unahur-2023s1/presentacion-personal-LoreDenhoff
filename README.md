@@ -11,21 +11,21 @@ Soy fanática de Harry Potter, me gustan los libros, las películas, las series 
 Me gusta mucho estar con mi familia y mis amistades.
 
 ## :small_blue_diamond: Lista de libros que me gustan
-:white_check_mark: Harry Potter todos!
-:white_check_mark: La ladrona de libros
-:white_check_mark: El niño con el pijama a rayas
-:white_check_mark: Alicia en el pais de las maravillas
+:white_check_mark: Harry Potter todos!<br>
+:white_check_mark: La ladrona de libros<br>
+:white_check_mark: El niño con el pijama a rayas<br>
+:white_check_mark: Alicia en el pais de las maravillas<br>
 
 ## :small_blue_diamond: Lista de películas que me gustan
-:white_check_mark: Harry Potter y el prisionero de Azkaban // Las reliquias de la muerte parte 2
-:white_check_mark: Trilogía volver al futuro
-:white_check_mark: Cadena de favores
-:white_check_mark: Inteligencia artificial
+:white_check_mark: Harry Potter y el prisionero de Azkaban // Las reliquias de la muerte parte 2<br>
+:white_check_mark: Trilogía volver al futuro<br>
+:white_check_mark: Cadena de favores<br>
+:white_check_mark: Inteligencia artificial<br>
 
 ## :small_blue_diamond: Lista de series que me gustan
-:white_check_mark: The Big Bang Theory
-:white_check_mark: The walking dead
-:white_check_mark: Dairios de vampiros
-:white_check_mark: Sex and the city
+:white_check_mark: The Big Bang Theory<br>
+:white_check_mark: The walking dead<br>
+:white_check_mark: Dairios de vampiros<br>
+:white_check_mark: Sex and the city<br>
 
 ![Borde](./assets/inferior.png)
