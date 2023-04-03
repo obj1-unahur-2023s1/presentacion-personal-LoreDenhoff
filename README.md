@@ -27,3 +27,5 @@ Me gusta mucho estar con mi familia y mis amistades.
 - :white_check_mark: The walking dead
 - :white_check_mark: Dairios de vampiros
 - :white_check_mark: Sex and the city
+
+![Borde](./assets/inferior.png)
