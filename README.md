@@ -5,8 +5,8 @@
 
 
 ## :small_blue_diamond: Quién soy?
-Hola! Mi nombre es Lorena, tengo 40 años, soy estudiante de la Tecnicatura Universitaria en Programación, crecí y me críe en la localidad de Hurlingham, tengo una hermosa bebé de 2 años y estpy en pareja hace 20 años.
-Estoy en la universidad desde el año 2021, anteriormente cursé en la Universidad de General Sarmiento, pero por custiones de cercanía decidí cambiarme ya que estaba a 3 horas de viaje ida y vuelta
+Hola! Mi nombre es Lorena, tengo 40 años, soy estudiante de la Tecnicatura Universitaria en Programación, crecí y me críe en la localidad de Hurlingham, tengo una hermosa bebé de 2 años y estoy en pareja hace 20 años.
+Estoy en la universidad desde el año 2021, anteriormente cursé en la Universidad de General Sarmiento, pero por cuestiones de cercanía decidí cambiarme ya que estaba a 3 horas de viaje ida y vuelta
 Soy fanática de Harry Potter, me gustan los libros, las películas, las series y escuchar rock nacional, aunque la cumbia me gusta más. 
 Me gusta mucho estar con mi familia y mis amistades.
 
